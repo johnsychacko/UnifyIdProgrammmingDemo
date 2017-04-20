@@ -16,8 +16,8 @@ private static final String USER_AGENT = "Mozilla/5.0";
 	public static void main(String args[])throws IOException{
 	     //image dimension
 		ImageExample obj= new ImageExample();
-	     int width = 640;
-	     int height = 320;
+	     int width = 128;
+	     int height = 128;
 	     //create buffered image object img
 	     BufferedImage img = new BufferedImage(width, height, BufferedImage.TYPE_INT_ARGB);
 	     //file object
