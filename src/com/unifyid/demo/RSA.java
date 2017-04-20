@@ -1,4 +1,4 @@
-package com.rsakeygenerator;
+package com.unifyid.demo;
 import java.io.DataInputStream;
 import java.io.IOException;
 import java.io.InputStream;

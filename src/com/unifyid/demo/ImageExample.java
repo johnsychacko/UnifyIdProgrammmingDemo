@@ -1,4 +1,4 @@
-package com.rsakeygenerator;
+package com.unifyid.demo;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
